@@ -2,21 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Elastic Stack SIEM Configuration and Management</b>
-  - [Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agnets for log collection, and forwarding data to the SIEM for effective security event monitoring.](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Security Event Simulation and Analysis</b>
-  - [Acquired hands-on experience in generating and analysing security events using Nmap on Kali Linux. Proficient in querying elastic SIEM to identify and investigate security incidents, enhancing network security monitoring and threat detection.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Security Operations</b>
+  - [Security Incident & Event Simulation and Analysis - Acquired hands-on experience in generating and analysing security events using Nmap on Kali Linux. Proficient in querying elastic SIEM to identify and investigate security incidents, enhancing network security monitoring and threat detection.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Elastic Stack SIEM Configuration and Management - Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agnets for log collection, and forwarding data to the SIEM for effective security event monitoring.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Network Traffic Security</b>
+  - [Network Traffic Analysis and Packet Capture - Leveraged tcpdump to monitor and analyze network traffic, capturing packets for in-depth inspection with Wireshark, identifying anomalies and potential security issues to strengthen network defenses.](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Logging tool development and integration - Designed and implemented a custom logging tool to aggregate and analyze system logs, enhancing incident response capabilities and enabling proactive identification of security risks through automated alert generation](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Firewall Configuration and Management - Implemented basic firewall setup to control network traffic and enforce security policies, utilizing iptables on Linux systems to configure rules for allowing, blocking, and logging network access.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Cloud Security</b>
+  - [Secure VPC setup in AWS - Configured a secure Virtual Private Cloud (VPC) in AWS, implementing subnets, routing tables, and security groups to isolate and protect cloud resources, ensuring secure and scalable cloud network architecture.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
