@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Elastic Stack SIEM Configuration and Management</b>
-  - [Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agnets for log collection, and forwarding data to the SIEM for effective security event monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agnets for log collection, and forwarding data to the SIEM for effective security event monitoring.](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Security Event Simulation and Analysis</b>
-  - [Security Event Simulation and Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Acquired hands-on experience in generating and analysing security events using Nmap on Kali Linux. Proficient in querying elastic SIEM to identify and investigate security incidents, enhancing network security monitoring and threat detection.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
