@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayo! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">Physiotherapist</a></h1>
+<h1>Hi, I'm Ayo! <br/><a href="(https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/)">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/">Physiotherapist</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,11 +8,11 @@
   - [Elastic Stack SIEM Configuration and Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     - Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agnets for log collection, and forwarding data to the SIEM for effective security event monitoring.
 - <b>Network Traffic Security</b>
-  - [Network Traffic Analysis and Packet Capture](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Network Traffic Analysis and Packet Capture](https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool)
     -  Leveraged tcpdump to monitor and analyze network traffic, capturing packets for in-depth inspection with Wireshark, identifying anomalies and potential security issues to strengthen network defenses.
-  - [Logging tool development and integration](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Logging tool development and integration](https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool)
     - Designed and implemented a custom logging tool to aggregate and analyze system logs, enhancing incident response capabilities and enabling proactive identification of security risks through automated alert generation
-  - [Firewall Configuration and Management](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Firewall Configuration and Management](https://github.com/Ayotunde-Jinadu/Firewall-Configuration-and-Management)
     - Implemented basic firewall setup to control network traffic and enforce security policies, utilizing iptables on Linux systems to configure rules for allowing, blocking, and logging network access.
 - <b>Cloud Security</b>
   - [Secure VPC setup in AWS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
@@ -32,7 +32,7 @@
 [linkedin]: https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ayotunde-jinadu/ayotunde-jinadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
