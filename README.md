@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Operations</b>
-  - [Security Incident & Event Simulation and Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Security Incident & Event Simulation and Analysis](https://github.com/Ayotunde-Jinadu/Elastic-SIEM-Lab) 
     - Acquired hands-on experience in generating and analysing security events using Nmap on Kali Linux. Proficient in querying elastic SIEM to identify and investigate security incidents, enhancing network security monitoring and threat detection.
-  - [Elastic Stack SIEM Configuration and Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Elastic Stack SIEM Configuration and Management](https://github.com/Ayotunde-Jinadu/Elastic-SIEM-Lab)
     - Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
 - <b>Network Traffic Security</b>
   - [Network Traffic Analysis and Packet Capture](https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool)
