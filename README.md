@@ -15,7 +15,7 @@
   - [Firewall Configuration and Management](https://github.com/Ayotunde-Jinadu/Firewall-Configuration-and-Management)
     - Implemented basic firewall setup to control network traffic and enforce security policies, utilizing iptables on Linux systems to configure rules for allowing, blocking, and logging network access.
 - <b>Cloud Security</b>
-  - [Secure VPC setup in AWS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Secure VPC setup in AWS](https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration)
     - Configured a secure Virtual Private Cloud (VPC) in AWS, implementing subnets, routing tables, and security groups to isolate and protect cloud resources, ensuring secure and scalable cloud network architecture.
 
 <h2>Certifications</h2>
