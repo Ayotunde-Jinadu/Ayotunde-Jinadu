@@ -12,7 +12,7 @@ Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the 
 | Wireshark Traffic Analysis & Decryption               |   Network traffic analysis, Packet inspection, Encryption/decryption analysis                                    |          Wireshark, TCPDump       |  <a href="https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool">Wireshark</a>               |
 | Firewall Configuration & Management                |  Firewall rule creation, Access control, Threat mitigation                                     |  UFW, Nmap, Bash               | <a href="https://github.com/Ayotunde-Jinadu/Firewall-Configuration-and-Management">Firewall</a>                |
 | Virtual Private Cloud Configuration in AWS | Cloud networking, VPC setup, Security group configuration                           | AWS, OpenSSH                                      |   <a href="https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration">VPC</a>              |                 |
-| Incident Simulation & Analysis with IDS | Intrusion detection, Incident response, Threat hunting, Log monitoring | Snort, Nmap | <a href="https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration">IDS Simulation</a> |
+| Incident Simulation & Analysis with IDS | Intrusion detection, Incident response, Threat hunting, Log monitoring | Snort, Nmap | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">IDS Simulation</a> |
 
 <h2>Certifications</h2>
 
