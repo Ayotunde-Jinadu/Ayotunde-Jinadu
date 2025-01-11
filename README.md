@@ -1,27 +1,29 @@
-<h1>Hi, I'm Ayo! <br/><a href="(https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/)">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/">Physiotherapist</a></h1>
+<h1>Ayotunde Jinadu <br/><a href="(https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/)">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/">Physiotherapist</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Portfolio</h2>
 
-- <b>Security Operations</b>
-  - [Security Incident & Event Simulation and Analysis](https://github.com/Ayotunde-Jinadu/Elastic-SIEM-Lab) 
-    - Acquired hands-on experience in generating and analysing security events using Nmap on Kali Linux. Proficient in querying elastic SIEM to identify and investigate security incidents, enhancing network security monitoring and threat detection.
-  - [Elastic Stack SIEM Configuration and Management](https://github.com/Ayotunde-Jinadu/Elastic-SIEM-Lab)
-    - Succesfully set up and configured elastic stack SIEM in a home lab environment. demonstrated profiency in deploying Kali Linux VM, configuring elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
-- <b>Network Traffic Security</b>
-  - [Network Traffic Analysis and Packet Capture](https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool)
-    -  Leveraged tcpdump to monitor and analyze network traffic, capturing packets for in-depth inspection with Wireshark, identifying anomalies and potential security issues to strengthen network defenses.
-  - [Logging tool development and integration](https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool)
-    - Designed and implemented a custom logging tool to aggregate and analyze system logs, enhancing incident response capabilities and enabling proactive identification of security risks through automated alert generation
-  - [Firewall Configuration and Management](https://github.com/Ayotunde-Jinadu/Firewall-Configuration-and-Management)
-    - Implemented basic firewall setup to control network traffic and enforce security policies, utilizing iptables on Linux systems to configure rules for allowing, blocking, and logging network access.
-- <b>Cloud Security</b>
-  - [Secure VPC setup in AWS](https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration)
-    - Configured a secure Virtual Private Cloud (VPC) in AWS, implementing subnets, routing tables, and security groups to isolate and protect cloud resources, ensuring secure and scalable cloud network architecture.
+Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the exciting field of cybersecurity, with a focus on Security Operations Center (SOC) roles. I bring a strong foundation in network monitoring, incident response, and security tools and a passion for protecting digital assets. I am eager to contribute to a forward-thinking organization where I can apply my skills, grow in the SOC environment, and make a meaningful impact on its security posture.
+
+<h2>👨‍💻 Cybersecurity Project Overview:</h2>
+
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| Elastic Stack SIEM Lab | Threat detection, Log analysis, Incident investigation  | Elastic Stack, Nmap, Elastic Agents|  <a href="https://github.com/Ayotunde-Jinadu/Elastic-SIEM-Lab">SIEM</a>   |
+| Wireshark Traffic Analysis & Decryption               |   Network traffic analysis, Packet inspection, Encryption/decryption analysis                                    |          Wireshark, TCPDump       |  <a href="https://github.com/Ayotunde-Jinadu/Network-Analysis-and-Decryption-Logging-Tool">Wireshark</a>               |
+| Firewall Configuration & Management                |  Firewall rule creation, Access control, Threat mitigation                                     |  UFW, Nmap, Bash               | <a href="https://github.com/Ayotunde-Jinadu/Firewall-Configuration-and-Management">Firewall</a>                |
+| Virtual Private Cloud Configuration in AWS | Cloud networking, VPC setup, Security group configuration                           | AWS, OpenSSH                                      |   <a href="https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration">VPC</a>              |                 |
+| Incident Simulation & Analysis with IDS | Intrusion detection, Incident response, Threat hunting, Log monitoring | Snort, Nmap | <a href="https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration">IDS Simulation</a> |
 
 <h2>Certifications</h2>
 
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Introduction to Cloud Computing](https://www.youtube.com/watch?v=a83ASGn_V_s)
+|     Certification     |               Completed?               |  
+| --------------------  | -------------------------------------- |
+| Introduction to Cloud Computing | 31/12/24 |
+| Google Cybersecurity Professional | 03/01/2025 | |
+| TryHackMe SOC Level 1 | *Expected: 13/02/2025* | |
+| TryHackMe Cyber Defense | *Expected: 13/03/2025* | |
+| CompTIA Security+ | *Expected: 23/03/2025* | |
+| CompTIA Network+ | *Expected: 30/03/2025* | |
 
 
 <h2> 🤳 Connect with me:</h2>
