@@ -16,6 +16,9 @@ Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the 
 | SQL-Based Security Investigation | Threat investigation, Log analysis, Data correlation, Anomaly detection | SQL, Powershell | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">SQL Investigation</a> |
 | AI-Powered Threat Detection System | Intrusion detection, AI model training, Log analysis, Automated mitigation | Scikit-learn, Python, Wireshark, VScode, Nmap, SSH Brute Force Attack | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">AI-Powered IDS</a> |
 | VPN Configuration & Management | VPN setup, IP forwarding, Secure tunneling, Firewall rule management | OpenVPN, UFW, OpenSSL, Bash | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">VPN Configuration</a> |
+| Security Audit | Vulnerability assessment, Compliance evaluation, Risk assessment, System hardening, Policy Review, Access Control | Documentation review, Compliance checklists, Interviews, Security frameworks (NIST, ISO 27001) | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">NIST Security Audit</a>  | 
+| Network Analysis Incident Report | Network traffic analysis, Incident investigation, Protocol troubleshooting, Root cause analysis | Tcpdump, ICMP analysis, DNS troubleshooting, Documentation review | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">Network Analysis Incident Report</a> |
+| Network Attack Incident Report | Network attack analysis, Denial-of-Service (DoS) detection, SYN flood mitigation, Incident response | Packet sniffing, Firewall configuration, SYN flood analysis, Documentation review | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">Network Attack Incident Report</a> |
 
 <h2>Certifications</h2>
 
