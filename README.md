@@ -13,6 +13,9 @@ Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the 
 | Firewall Configuration & Management                |  Firewall rule creation, Access control, Threat mitigation                                     |  UFW, Nmap, Bash               | <a href="https://github.com/Ayotunde-Jinadu/Firewall-Configuration-and-Management">Firewall</a>                |
 | Virtual Private Cloud Configuration in AWS | Cloud networking, VPC setup, Security group configuration                           | AWS, OpenSSH                                      |   <a href="https://github.com/Ayotunde-Jinadu/Virtual-Private-Cloud-Configuration">VPC</a>              |                 |
 | Incident Simulation & Analysis with IDS | Intrusion detection, Incident response, Threat hunting, Log monitoring | Snort, Nmap | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">IDS Simulation</a> |
+| SQL-Based Security Investigation | Threat investigation, Log analysis, Data correlation, Anomaly detection | SQL, Powershell | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">SQL Investigation</a> |
+| AI-Powered Threat Detection System | Intrusion detection, AI model training, Log analysis, Automated mitigation | Scikit-learn, Python, Wireshark, VScode, Nmap, SSH Brute Force Attack | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">AI-Powered IDS</a> |
+| VPN Configuration & Management | VPN setup, IP forwarding, Secure tunneling, Firewall rule management | OpenVPN, UFW, OpenSSL, Bash | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">VPN Configuration</a> |
 
 <h2>Certifications</h2>
 
