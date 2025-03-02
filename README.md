@@ -18,7 +18,7 @@ Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the 
 | VPN Configuration & Management | VPN setup, IP forwarding, Secure tunneling, Firewall rule management | OpenVPN, UFW, OpenSSL, Bash | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">VPN Configuration</a> |
 | Security Audit | Vulnerability assessment, Compliance evaluation, Risk assessment, System hardening, Policy Review, Access Control | Documentation review, Compliance checklists, Interviews, Security frameworks (NIST, ISO 27001) | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">NIST Security Audit</a>  | 
 | Network Analysis Incident Report | Network traffic analysis, Incident investigation, Protocol troubleshooting, Root cause analysis | Tcpdump, ICMP analysis, DNS troubleshooting, Documentation review | <a href="https://github.com/Ayotunde-Jinadu/Network-Analysis-Incident-Report">Network Analysis Incident Report</a> |
-| Network Attack Incident Report | Network attack analysis, Denial-of-Service (DoS) detection, SYN flood mitigation, Incident response | Packet sniffing, Firewall configuration, SYN flood analysis, Documentation review | <a href="https://github.com/Ayotunde-Jinadu/Incident-Simulation-Analysis-with-IDS">Network Attack Incident Report</a> |
+| Network Attack Incident Report | Network attack analysis, Denial-of-Service (DoS) detection, SYN flood mitigation, Incident response | Packet sniffing, Firewall configuration, SYN flood analysis, Documentation review | <a href="https://github.com/Ayotunde-Jinadu/Network-Attack-Incident-Report">Network Attack Incident Report</a> |
 
 <h2>Certifications</h2>
 
