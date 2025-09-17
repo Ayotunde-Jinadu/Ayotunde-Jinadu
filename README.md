@@ -26,10 +26,10 @@ Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the 
 | --------------------  | -------------------------------------- |
 | Introduction to Cloud Computing | 31/12/24 |
 | Google Cybersecurity Professional | 03/01/2025 | |
-| TryHackMe SOC Level 1 | *Expected: 13/02/2025* | |
-| TryHackMe Cyber Defense | *Expected: 13/03/2025* | |
-| CompTIA Security+ | *Expected: 23/03/2025* | |
-| CompTIA Network+ | *Expected: 30/03/2025* | |
+| TryHackMe SOC Level 1 | *Expected: 13/11/2025* | |
+| TryHackMe Cyber Defense | *Expected: 13/12/2025* | |
+| CompTIA Security+ | *Expected: 23/10/2025* | |
+| CompTIA Network+ | *Expected: 30/11/2025* | |
 
 
 <h2> 🤳 Connect with me:</h2>
