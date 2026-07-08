@@ -26,8 +26,8 @@ Hi, I'm Ayo and this is my Tech Portfolio.
 | --------------------  | -------------------------------------- |
 | Introduction to Cloud Computing | 31/12/24 |
 | Google Cybersecurity Professional | 03/01/2025 | |
-| CompTIA Security+ | *Expected: 28/02/2026* | |
-| CompTIA Network+ | *Expected: 20/03/2026* | |
+| CompTIA Security+ | *Expected: TBC* | |
+| CompTIA Network+ | *Expected: TBC* | |
 
 
 <h2> 🤳 Connect with me:</h2>
