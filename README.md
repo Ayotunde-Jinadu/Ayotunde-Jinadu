@@ -2,9 +2,9 @@
 
 <h2>Portfolio</h2>
 
-Hi, I'm Ayo and this is my Cybersecurity Portfolio. I am transitioning into the exciting field of cybersecurity, with a focus on Security Operations Center (SOC) roles. I bring a strong foundation in network monitoring, incident response, and security tools and a passion for protecting digital assets. I am eager to contribute to a forward-thinking organization where I can apply my skills, grow in the SOC environment, and make a meaningful impact on its security posture.
+Hi, I'm Ayo and this is my Tech Portfolio. 
 
-<h2>👨‍💻 Cybersecurity Project Overview:</h2>
+<h2>👨‍💻 Project Overview:</h2>
 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
