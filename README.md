@@ -1,4 +1,4 @@
-<h1>Ayotunde Jinadu <br/><a href="(https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/)">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/">Physiotherapist</a></h1>
+<h1>Ayotunde Jinadu <br/><a href="(https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/)">Computer Science Student</a>, <a href="https://www.linkedin.com/in/ayotunde-jinadu-4285a4191/">Physiotherapist</a></h1>
 
 <h2>Portfolio</h2>
 
